@@ -2,7 +2,7 @@
 .DS_Store
 
 # Java files
-.class
+*.class
 
 # Visual Studio Code stuffs
 .vscode
