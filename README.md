@@ -1,2 +1,3 @@
 # Daily-Coding-Challenge
-Daily coding challenge for fun and keep my brain working !!!!
+
+This is the repository for daily coding challenge.
