@@ -3,6 +3,7 @@
 
 # Java files
 *.class
+/**/*.class
 
 # Visual Studio Code stuffs
 .vscode
