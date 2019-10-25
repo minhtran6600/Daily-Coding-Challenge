@@ -1,0 +1,8 @@
+# MacOS-related files
+.DS_Store
+
+# Java files
+.class
+
+# Visual Studio Code stuffs
+.vscode
