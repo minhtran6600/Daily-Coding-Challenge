@@ -5,7 +5,7 @@
  * You may assume the two numbers do not contain any leading zero, except the number 0 itself.
  */
 
-public class AddTwoNumbers {
+public class Solution {
 
     // Linked-List Definition
     class ListNode {
@@ -73,7 +73,7 @@ public class AddTwoNumbers {
     }
 
     public static void main(String[] args) {
-        AddTwoNumbers atn = new AddTwoNumbers();
+        Solution atn = new Solution();
         System.out.println(atn.test());
     }
 }

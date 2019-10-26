@@ -2,7 +2,7 @@
  * Given a string, find the length of the longest substring without repeating characters.
  */
 
-public class LongestSubstringNonrepeatingChar {
+public class Solution {
     public int lengthOfLongestSubstring(String s) {
         int len = s.length();
         int[] repeatIndex = new int[128];
@@ -32,7 +32,7 @@ public class LongestSubstringNonrepeatingChar {
     }
 
     public static void main(String[] args) {
-        LongestSubstringNonrepeatingChar lsnc = new LongestSubstringNonrepeatingChar();
+        Solution lsnc = new Solution();
         lsnc.test("pwwkew");
     }
 }

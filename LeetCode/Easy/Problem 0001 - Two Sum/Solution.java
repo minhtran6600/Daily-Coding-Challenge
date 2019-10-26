@@ -7,7 +7,7 @@
 import java.util.Hashtable;
 import java.util.Arrays;
 
-public class TwoSum 
+public class Soluton 
 {
     public static void main(String[] args) {
         int[] nums = {1, 2, 3, 4, 5, 6, 7};
