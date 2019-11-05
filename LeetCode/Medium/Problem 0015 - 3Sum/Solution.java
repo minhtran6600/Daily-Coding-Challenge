@@ -23,7 +23,6 @@ public class Solution {
                 else if (nums[first] + nums[last] > goal) last--;
                 else first++;
             }
-            current.put(nums[i], 0);
         }
 
         return ansList;
